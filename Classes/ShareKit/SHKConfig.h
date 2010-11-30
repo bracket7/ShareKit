@@ -58,6 +58,8 @@ leaving that decision up to the user.
 #define SHKFacebookUseSessionProxy  NO
 #define SHKFacebookKey				@"120505508013243"
 #define SHKFacebookSecret			@"aa37250dfdc169f8c3b34748fe84fb3f"
+#define SHKFacebookKey				@"865df42c04f42f95ba8b6775d9aba67a"
+#define SHKFacebookSecret			@"ff527ecdb5c2f3081b04824cce991c11"
 #define SHKFacebookSessionProxyURL  @""
 
 
